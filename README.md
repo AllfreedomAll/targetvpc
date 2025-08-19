@@ -362,7 +362,7 @@ curl -X POST http://localhost:8001/api/metrics \
 
 - 项目维护者: guo.ling
 - 邮箱: guo.ling@outlook.com
-- 项目地址: [https://github.com/yourusername/targetvpc]
+- 项目地址: [https://github.com/AllfreedomAll/targetvpc]
 
 ## 🙏 致谢
 
